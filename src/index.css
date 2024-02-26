@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.rc-slider-handle {
+  border: solid 2px #1d5ec6 !important;
+}
+
+.rc-slider-track,
+.rc-slider-tracks {
+  background-color: #5ea3f2 !important;
+}
